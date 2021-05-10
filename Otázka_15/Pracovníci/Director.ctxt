@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Director
+comment0.text=\r\n\ Trida\ reditele\ \r\n\ @author\ malejpavouk\r\n
+comment1.params=name\ age\ employees
+comment1.target=Director(java.lang.String,\ int,\ Employee[])
+comment2.params=
+comment2.target=void\ work()
+comment3.params=
+comment3.target=Employee[]\ getEmployees()
+comment3.text=\r\n\ @return\ the\ employees\r\n
+comment4.params=employees
+comment4.target=void\ setEmployees(Employee[])
+comment4.text=\r\n\ @param\ employees\ the\ employees\ to\ set\r\n
+numComments=5
